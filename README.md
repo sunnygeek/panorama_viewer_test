@@ -8,4 +8,4 @@
 - Install requirements: `pip install flask`
 
 ## Usage
-- Use a live server tool/extension in VS Code to host the index.html file so the image specified in the viewer.js file is automatically loaded and displayed within the VS Code preview or an external browser.
+- I use a live server tool/extension in VS Code to host the index.html file so the image specified in the viewer.js file is automatically loaded and displayed within the VS Code preview or an external browser.
