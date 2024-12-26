@@ -1,6 +1,6 @@
 pannellum.viewer('panorama', {
-    type: "equirectangular",
-    panorama: "https://cdn.eso.org/images/large/ESO_Paranal_360_Marcio_Cabral_Chile_13-CC.jpg",  // Change to a supported format
+    type: "equirectangular", // The current image specified below is compatible with this type.
+    panorama: "https://cdn.eso.org/images/large/ESO_Paranal_360_Marcio_Cabral_Chile_13-CC.jpg",  // Can be a local image or a URL.
     autoLoad: true,
     autoRotate: 2,
     compass: true,
